@@ -1,2 +1,2 @@
-# SQL-Challenges
-Archive of my SQL database challenges
+# Standard Query Language (SQL)
+Archive of my SQL Advanced challenges
